@@ -1,0 +1,14 @@
+{
+  "Engineering Mathematics": {
+    "Linear Algebra": ["Matrices", "Eigenvalues", "Vector Spaces"],
+    "Calculus": ["Differentiation", "Integration", "Multiple Integrals"],
+    "Probability and Statistics": ["Random Variables", "Distributions", "Expectation"]
+  },
+  "Core Subjects": {
+    "Structural Engineering": ["Strength of Materials", "Structural Analysis", "Concrete Structures", "Steel Structures"],
+    "Geotechnical Engineering": ["Soil Mechanics", "Foundation Engineering"],
+    "Transportation Engineering": ["Highway Planning", "Traffic Engineering", "Railways", "Airports"],
+    "Environmental Engineering": ["Water Treatment", "Wastewater Treatment", "Air Pollution"],
+    "Hydrology and Irrigation": ["Hydrological Cycle", "Groundwater", "Irrigation Systems"]
+  }
+}

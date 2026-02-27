@@ -1,0 +1,15 @@
+{
+  "Engineering Mathematics": {
+    "Linear Algebra": ["Matrices", "Eigenvalues", "Linear Equations"],
+    "Calculus": ["Differentiation", "Integration", "Multiple Integrals"],
+    "Probability and Statistics": ["Random Variables", "Distributions", "Expectation"]
+  },
+  "Core Subjects": {
+    "Electric Circuits": ["Network Theorems", "AC/DC Analysis", "Transient Response"],
+    "Electromagnetic Theory": ["Maxwell Equations", "Transmission Lines", "Waveguides"],
+    "Signals and Systems": ["Fourier Transform", "Laplace Transform", "Z-Transform"],
+    "Control Systems": ["Feedback", "Stability", "PID Controllers"],
+    "Power Systems": ["Generation", "Transmission", "Distribution", "Fault Analysis"],
+    "Electrical Machines": ["Transformers", "Induction Motors", "Synchronous Machines"]
+  }
+}

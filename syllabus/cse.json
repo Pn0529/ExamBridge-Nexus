@@ -1,0 +1,95 @@
+{
+  "Engineering Mathematics": {
+    "Discrete Mathematics": [
+      "Propositional and Predicate Logic",
+      "Sets",
+      "Relations",
+      "Functions",
+      "Combinatorics",
+      "Graph Theory",
+      "Recurrence Relations"
+    ],
+    "Linear Algebra": [
+      "Matrices",
+      "Determinants",
+      "Eigenvalues",
+      "Eigenvectors",
+      "Rank",
+      "Linear Equations"
+    ],
+    "Calculus": [
+      "Limits",
+      "Continuity",
+      "Differentiation",
+      "Integration",
+      "Partial Derivatives",
+      "Maxima and Minima"
+    ],
+    "Probability and Statistics": [
+      "Random Variables",
+      "Probability Distributions",
+      "Mean and Variance",
+      "Bayes Theorem"
+    ]
+  },
+  "Core Subjects": {
+    "Data Structures": [
+      "Arrays",
+      "Linked Lists",
+      "Stacks",
+      "Queues",
+      "Trees",
+      "Graphs",
+      "Hashing"
+    ],
+    "Algorithms": [
+      "Sorting",
+      "Searching",
+      "Greedy Algorithms",
+      "Dynamic Programming",
+      "Divide and Conquer",
+      "Graph Algorithms"
+    ],
+    "Operating Systems": [
+      "Processes",
+      "Threads",
+      "Scheduling",
+      "Deadlocks",
+      "Memory Management",
+      "File Systems"
+    ],
+    "Computer Networks": [
+      "OSI Model",
+      "TCP/IP",
+      "Routing",
+      "Congestion Control",
+      "Network Security"
+    ],
+    "Databases": [
+      "ER Model",
+      "Relational Model",
+      "SQL",
+      "Normalization",
+      "Transactions"
+    ],
+    "Theory of Computation": [
+      "Regular Languages",
+      "Finite Automata",
+      "Pushdown Automata",
+      "Turing Machines"
+    ],
+    "Compiler Design": [
+      "Lexical Analysis",
+      "Parsing",
+      "Syntax Directed Translation",
+      "Code Optimization"
+    ],
+    "Machine Learning": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Regression",
+      "Classification",
+      "Clustering"
+    ]
+  }
+}

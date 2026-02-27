@@ -1,0 +1,13 @@
+{
+  "Engineering Mathematics": {
+    "Linear Algebra": ["Matrices", "Eigenvalues"],
+    "Calculus": ["Differentiation", "Integration"]
+  },
+  "Core Subjects": {
+    "Thermodynamics": ["First Law", "Second Law", "Entropy"],
+    "Fluid Mechanics": ["Bernoulli Equation", "Boundary Layer"],
+    "Manufacturing": ["Casting", "Welding", "Machining"],
+    "Strength of Materials": ["Stress-Strain", "Bending", "Torsion"],
+    "Theory of Machines": ["Kinematics", "Dynamics", "Vibrations"]
+  }
+}

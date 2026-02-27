@@ -1,0 +1,47 @@
+{
+  "Engineering Mathematics": {
+    "Linear Algebra": [
+      "Matrices",
+      "Eigenvalues",
+      "Linear Equations"
+    ],
+    "Calculus": [
+      "Differentiation",
+      "Integration",
+      "Multiple Integrals"
+    ]
+  },
+  "Core Subjects": {
+    "Signals and Systems": [
+      "Fourier Transform",
+      "Laplace Transform",
+      "Z-Transform"
+    ],
+    "Analog Circuits": [
+      "Diodes",
+      "BJT",
+      "MOSFET",
+      "Amplifiers"
+    ],
+    "Digital Electronics": [
+      "Boolean Algebra",
+      "Combinational Circuits",
+      "Sequential Circuits"
+    ],
+    "Communication Systems": [
+      "AM",
+      "FM",
+      "Modulation",
+      "Noise"
+    ],
+    "Control Systems": [
+      "Stability",
+      "Root Locus",
+      "Bode Plot"
+    ],
+    "Electromagnetics": [
+      "Maxwell Equations",
+      "Transmission Lines"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Engineering Mathematics": {
+    "Linear Algebra": ["Matrices", "Eigenvalues", "Vector Spaces"],
+    "Probability and Statistics": ["Random Variables", "Distributions", "Hypothesis Testing"],
+    "Optimization": ["Convex Optimization", "Gradient Descent", "Linear Programming"]
+  },
+  "Core Subjects": {
+    "Machine Learning": ["Supervised Learning", "Unsupervised Learning", "Neural Networks", "Deep Learning"],
+    "Data Engineering": ["Databases", "Big Data", "Data Warehousing"],
+    "Artificial Intelligence": ["Search Algorithms", "Knowledge Representation", "Reinforcement Learning"],
+    "Programming": ["Python", "R", "SQL"]
+  }
+}
